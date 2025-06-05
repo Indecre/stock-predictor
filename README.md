@@ -75,7 +75,7 @@ This project is licensed under the MIT License.
 
 💬 Contact
 For questions, suggestions, or collaborations:
-📧 yourname@email.com
+📧 aryanshukla20102006@gmail.com
 
 ## 📦 Installation
 
