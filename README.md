@@ -38,7 +38,7 @@ The model is trained on a dataset of historical stock prices. The dataset includ
 
 ---
 
-🔧 Improvements
+## Improvements
 Planned and possible future enhancements:
 
  🔄 LSTM/Transformer Models: Improve temporal awareness with sequence models
@@ -62,8 +62,14 @@ Planned and possible future enhancements:
  🔁 Checkpoints: Add save/load training checkpoints
 
  🧪 Unit Tests: Ensure stability and correctness
-
  ⚙️ AutoML Support: Plug in with H2O, Auto-sklearn, etc.
+
+
+ ---
+
+ ## Improvements done:
+ - using advanced evaluation metrics like MSE, MAE and R2
+ 
 
 🤝 Contributing
 Contributions are welcome!
